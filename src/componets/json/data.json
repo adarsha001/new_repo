@@ -1,0 +1,77 @@
+
+[
+  {
+    "name": "Product 1",
+    "image": "",
+    "category": "Category A",
+    "number": 1234567890,
+    "rating": 4.5,
+    "images":"images/saveee.jpeg"
+  },
+  {
+    "name": "Product 2",
+    "image": "https://example.com/image2.jpg",
+    "category": "Category B",
+    "number": 2345678901,
+    "rating": 3.8,
+    "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"
+  },
+  {
+    "name": "Product 3",
+    "image": "https://example.com/image3.jpg",
+    "category": "Category C",
+    "number": 3456789012,
+    "rating": 4.2, "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"
+
+  },
+  {
+    "name": "Product 4",
+    "image": "https://example.com/image4.jpg",
+    "category": "Category A",
+    "number": 4567890123,
+    "rating": 4.0
+  , "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"},
+  {
+    "name": "Product 5",
+    "image": "https://example.com/image5.jpg",
+    "category": "Category B",
+    "number": 5678901234,
+    "rating": 4.8, "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"
+
+  },
+  {
+    "name": "Product 6",
+    "image": "images/vDJxVjPdTJKPm55Ahu9wSQ-removebg-preview.jpg",
+    "category": "Category C",
+    "number": 6789012345,
+    "rating": 3.5
+  , "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"},
+  {
+    "name": "Product 7",
+    "image": "https://example.com/image7.jpg",
+    "category": "Category A",
+    "number": 7890123456,
+    "rating": 4.7, "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"
+  },
+  {
+    "name": "Product 8",
+    "image": "https://example.com/image8.jpg",
+    "category": "Category B",
+    "number": 8901234567, "images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg",
+    "rating": 3.9
+  },
+  {
+    "name": "Product 9",
+
+    "category": "Category C",
+    "number": 9012345678, "images":"/images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg",
+    "rating": 4.1
+  },
+  {
+    "name": "Product 10",
+    "image": "https://example.com/image10.jpg",
+    "category": "Category A",
+    "number": 1234509876,
+    "rating": 4.6 ,"images":"images/9osFOapUTWqS_4cLpRAzSQ-removebg.jpg"
+  }
+]
